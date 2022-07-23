@@ -6,11 +6,11 @@
       
 - 🌱 it's my projects
      Web - https://info.dhlkorea.com/whitepaper_pandemic <br>
-     stacks : javascript, HTML, CSS
+     used stacks : javascript, HTML, CSS
      
      WebAPP
      https://woodongjung.com <br>
-     stacks : javascript, Kakao Address API, PHP, PDO, MariaDB
+     used stacks : javascript, Kakao Address API, PHP, PDO, MariaDB
   
  
       
