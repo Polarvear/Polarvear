@@ -8,7 +8,7 @@
      Web - https://info.dhlkorea.com/whitepaper_pandemic <br>
      stacks : javascript, HTML, CSS
      
-     Web, APP
+     WebAPP
      https://woodongjung.com <br>
      stacks : javascript, Kakao Address API, PHP, PDO, MariaDB
   
