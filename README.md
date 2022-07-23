@@ -1,12 +1,22 @@
-### Hi there 👋
 
+- 🔭 I’m currently working on ... <br>
+            FELXION
+- 🌱 I’m currently learning ...<br>
+      Node.js, PHP, REACT.js , VUE.js
+      
+- 🌱 it's my projects
+     Web - https://info.dhlkorea.com/whitepaper_pandemic <br>
+     stacks : javascript, HTML, CSS
+     
+     Web, APP
+     https://woodongjung.com <br>
+     stacks : javascript, Kakao Address API, PHP, PDO, MariaDB
+  
+ 
+      
+      
 <!--
 **Polarvear/Polarvear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
