@@ -6,10 +6,10 @@
       
 - 🌱 it's my projects <br>
      Web - https://info.dhlkorea.com/whitepaper_pandemic <br>
-     used stacks : javascript, HTML, CSS
+     The stacks I used in this project : javascript, HTML, CSS
      
      WebAPP - https://woodongjung.com <br>
-     used stacks : javascript, Kakao Address API, PHP, PDO, MariaDB
+     The stacks I used in this project : javascript, Kakao Address API, PHP, PDO, MariaDB, CI framework
   
  
       
