@@ -2,17 +2,21 @@
 - 🔭 I’m currently working on ... <br>
             FELXION
 - 🌱 I’m currently learning ...<br>
-      Node.js, PHP, REACT.js , VUE.js
+      PHP, REACT.js
       
 - 🌱 it's my projects <br>
-     WebPage - https://info.dhlkorea.com/whitepaper_pandemic <br>
+     Web page - https://info.dhlkorea.com/whitepaper_pandemic <br>
      The stacks I used in this project : javascript, HTML, CSS
      
      WebAPP - https://woodongjung.com <br>
      The stacks I used in this project : javascript, Kakao Address API, PHP, PDO, MariaDB, CI framework
   
-     WebPage - https://miraclegoodmorning.kr<br>
+     Web page - https://miraclegoodmorning.kr<br>
      The stacks I used in this project : compressor.js, HTML Canvas, PHP
+     
+     Web site -https://gnpcorp.iwinv.net/<br>
+     The stacks I used in this project : HTML, CSS, avascript, PHP
+     
  
       
       
