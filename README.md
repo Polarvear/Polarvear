@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ... <br>
             FELXION
 - 🌱 I’m currently learning ...<br>
-      PHP, REACT.js
+      PHP, Linux, vim
       
 - 🌱 it's my projects <br>
      Web page - https://info.dhlkorea.com/whitepaper_pandemic <br>
