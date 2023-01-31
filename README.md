@@ -1,6 +1,6 @@
 
-- 🔭 I’m currently working on ... <br>
-            Nepirity
+<!--- 🔭 I’m currently working on ... <br> -->
+
 - 🌱 I’m currently learning ...<br>
       PHP, Linux, vim
       
