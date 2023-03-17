@@ -15,7 +15,7 @@
      The stacks I used in this project : compressor.js, HTML Canvas, PHP
      
      Web site -https://gnpcorp.iwinv.net/<br>
-     The stacks I used in this project : HTML, CSS, avascript, PHP
+     The stacks I used in this project : HTML, CSS, javascript, PHP
      
  
       
