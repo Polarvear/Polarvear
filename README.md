@@ -5,7 +5,7 @@
       Kafka<br>
 <br>
 🌐 Frontend<br>
-      Next.js
+      Next.js<br>
 <br>
 ⚙️ Infrastructure / DevOps<br>
       Redis<br>
