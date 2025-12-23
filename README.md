@@ -1,3 +1,16 @@
+📦 Backend
+      NestJS
+      PostgreSQL
+      MongoDB
+      Kafka
+
+🌐 Frontend
+      Next.js
+
+⚙️ Infrastructure / DevOps
+      Redis
+      Elasticsearch
+
 
 <!--- 🔭 I’m currently working on ... <br> -->
 <!--
