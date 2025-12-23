@@ -1,15 +1,15 @@
-📦 Backend
-      NestJS
-      PostgreSQL
-      MongoDB
-      Kafka
-
-🌐 Frontend
+📦 Backend<br>
+      NestJS<br>
+      PostgreSQL<br>
+      MongoDB<br>
+      Kafka<br>
+<br>
+🌐 Frontend<br>
       Next.js
-
-⚙️ Infrastructure / DevOps
-      Redis
-      Elasticsearch
+<br>
+⚙️ Infrastructure / DevOps<br>
+      Redis<br>
+      Elasticsearch<br>
 
 
 <!--- 🔭 I’m currently working on ... <br> -->
