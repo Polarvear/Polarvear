@@ -1,6 +1,6 @@
 
 <!--- 🔭 I’m currently working on ... <br> -->
-
+<!--
 - 🌱 I’m currently learning ...<br>
       PHP, Linux, vim
       
@@ -16,7 +16,7 @@
      
      Web site -https://gnpcorp.iwinv.net/<br>
      The stacks I used in this project : HTML, CSS, javascript, PHP
-     
+-->     
  
       
       
